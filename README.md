@@ -1,5 +1,12 @@
+# React Internals
 
-# React Internal Working (Lecture)
+Explore the inner workings of React.js with `react-internals`. This repository is a deep dive into the architecture, design patterns, and advanced concepts that power React applications.
+
+## About The Project
+
+`react-internals` is an educational resource aimed at demystifying the complex mechanisms behind React.js. From the reconciliation algorithm to hooks and fiber architecture, this repository provides insights and code examples to help you understand what happens under the hood of one of the most popular JavaScript libraries.
+
+# React Internal (Lecture)
 
 ## Lessons
 ### [Code](https://github.com/OpenRnD007/react-internals/tree/main/src/App.jsx)
